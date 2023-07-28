@@ -1,5 +1,5 @@
-# Open Network for E-Commerce (ONEC) 👜
-### A platform for creation and management of ecommerce stores (online) with the seller's own branding.
+# ONELIFE A Bloodbanks' Management System 👜
+### A web application for managing the blood banks through out the country .
 
 <hr>
 
@@ -13,12 +13,12 @@
 ## Technologies used 🛠️
 
 - Node.js
-- MySQL
 - Express.js
+- Mongo DB
 - JWT
 - React
-- React Native
-- React Native Paper
+- Tailwind
+
 
 ---
 
@@ -54,7 +54,7 @@ The other two repos are:
 --- 
 ### Contributors:
 
-![image](https://github.com/adarsh-rawat/bazaar/assets/43747987/20c6e3b3-2e86-48da-b0ea-c2e06dc6411c)
+![image](https://github.com/rajat8658/onelife/assets/43747987/20c6e3b3-2e86-48da-b0ea-c2e06dc6411c)
 
 --- 
 ## Contact
