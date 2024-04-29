@@ -1,0 +1,9 @@
+{
+  "alias": {},
+  "resolveExtensions": [
+    ".js",
+    ".jsx",
+    ".css"
+  ],
+  "entryFilePath": "client\\src\\index.js"
+}
